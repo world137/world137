@@ -54,8 +54,6 @@
 
 ## 📌 Featured Work
 
-> (Pin your best repos and replace these)
-
 ### 🔹 Core Banking Service
 High-performance backend service handling financial transactions  
 - Designed for reliability and data integrity  
