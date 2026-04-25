@@ -1,11 +1,7 @@
 <h1 align="center">World 👨‍💻</h1>
 
 <p align="center">
-  Backend Software Engineer • Core Banking Systems • Distributed Infrastructure
-</p>
-
-<p align="center">
-  Building reliable systems today — exploring intelligent systems for tomorrow
+  Backend Software Engineer • Core Banking Systems
 </p>
 
 ---
