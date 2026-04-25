@@ -78,26 +78,6 @@ Exploring practical AI systems integrated with backend workflows
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=world137&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=world137&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## ⚡ Engineering Philosophy
-
-I build systems that are:
-- Reliable under pressure  
-- Scalable by design  
-- Maintainable over time  
-
-Now expanding into systems that are not just reliable — but **intelligent and adaptive**.
-
----
-
 ## 📫 Connect
 
 - GitHub: https://github.com/world137
