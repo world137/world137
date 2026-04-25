@@ -77,9 +77,3 @@ Exploring practical AI systems integrated with backend workflows
 ## 📫 Connect
 
 - GitHub: https://github.com/world137
-
----
-
-<p align="center">
-  <i>“From deterministic systems to intelligent systems.”</i>
-</p>
