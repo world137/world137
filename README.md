@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Building reliable, scalable systems where <b>precision and performance actually matter</b>
+  Building reliable systems today — exploring intelligent systems for tomorrow
 </p>
 
 ---
@@ -14,18 +14,21 @@
 
 - 💼 Backend Engineer working in **core banking systems**
 - ⚙️ Focused on **high-reliability, transaction-heavy architectures**
-- 🔁 Experienced in **CI/CD pipelines and system automation**
-- ☁️ Working with **containerized & distributed environments**
-- 📈 Interested in **system performance, scalability, and financial systems**
+- ☁️ Building and operating systems on **Kubernetes (K8s)**
+- 🔁 Experienced in **CI/CD pipelines and automation (Jenkins)**
+- 🤖 Currently exploring **AI systems and practical applications**
 
 ---
 
-## 🧠 What I Work On
+## 🧠 Current Focus
 
-- Banking transaction systems
-- Backend services with strong consistency requirements
-- CI/CD pipelines and automation
-- Microservices & container orchestration
+- Scalable backend systems (Go)
+- Microservices & container orchestration (K8s)
+- System reliability & performance
+- AI engineering:
+  - Retrieval-Augmented Generation (RAG)
+  - AI Agents & tool usage
+  - Prompt design (instruction & skill-based systems)
 
 ---
 
@@ -37,7 +40,7 @@
 **Backend & Infrastructure**
 - REST APIs
 - Microservices Architecture
-- Kubernetes
+- Kubernetes (K8s)
 
 **DevOps & Tools**
 - Jenkins
@@ -57,7 +60,7 @@
 High-performance backend service handling financial transactions  
 - Designed for reliability and data integrity  
 - Optimized for concurrent processing  
-- Built with Go + containerized deployment  
+- Built with Go + Kubernetes deployment  
 
 ---
 
@@ -69,11 +72,11 @@ Automated build, test, and deployment workflows
 
 ---
 
-### 🔹 Microservices Platform
-Scalable service architecture deployed on Kubernetes  
-- Service isolation and fault tolerance  
-- Load handling and horizontal scaling  
-- Clean API design  
+### 🔹 AI Experimentation (RAG / Agents)
+Exploring practical AI systems integrated with backend workflows  
+- Retrieval-based knowledge systems (RAG)  
+- Tool-using AI agents  
+- Structured prompting (instruction & skill design)  
 
 ---
 
@@ -88,12 +91,12 @@ Scalable service architecture deployed on Kubernetes
 
 ## ⚡ Engineering Philosophy
 
-I focus on building systems that are:
+I build systems that are:
 - Reliable under pressure  
 - Scalable by design  
 - Maintainable over time  
 
-Because in financial systems — **failure is not an option**.
+Now expanding into systems that are not just reliable — but **intelligent and adaptive**.
 
 ---
 
@@ -104,5 +107,5 @@ Because in financial systems — **failure is not an option**.
 ---
 
 <p align="center">
-  <i>“Good systems don’t just work — they keep working.”</i>
+  <i>“From deterministic systems to intelligent systems.”</i>
 </p>
